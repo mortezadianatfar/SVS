@@ -29,5 +29,3 @@ for (j in arrayOfFaces) {
             surfaceArea = surfaceArea + s[j];}
 }
 console.log(surfaceArea);
-
-
