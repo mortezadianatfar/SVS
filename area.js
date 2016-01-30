@@ -28,4 +28,5 @@ for (j in arrayOfFaces) {
         if (!isNaN(s[j]))
             surfaceArea = surfaceArea + s[j];}
 }
+// hellow
 console.log(surfaceArea);
